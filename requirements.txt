@@ -1,4 +1,4 @@
-arrow==0.13.1
+arrow==0.15.1
 bidict==0.18.0
 certifi==2019.9.11
 Click==7.0
